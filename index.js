@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Obeying NimOn","Playing DRP"];
+const statusMessages = ["Obeying NimOn God","Playing DRP"];
 
 
 let currentIndex = 0;
