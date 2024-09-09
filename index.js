@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Obeying NimOn God","Playing Druvam Roleplay","Playing with 4/370 Players"];
+const statusMessages = ["Obeying NimOn God","Playing Druvam Roleplay",];
 
 
 let currentIndex = 0;
